@@ -36,7 +36,7 @@
 		width: 10px;
 		height: 70%;
 		font-size: 100px;
-		background: url(/SESDF-V3/grid.png) -75px 0px no-repeat;
+		background: url(/SESDF/grid.png) -75px 0px no-repeat;
 		cursor: col-resize;
 	}
 	.search-bar {
@@ -56,13 +56,13 @@
 	.sort-ascending {
 		width: 16px;
 		height: 12px;
-		background: url(/SESDF-V3/grid.png) -20px 50% no-repeat;
+		background: url(/SESDF/grid.png) -20px 50% no-repeat;
 		display:inline-block;
 	}
 	.sort-descending{
 		width: 16px;
 		height: 12px;
-		background: url(/SESDF-V3/grid.png) -40px 50% no-repeat;
+		background: url(/SESDF/grid.png) -40px 50% no-repeat;
 		display:inline-block;
 	}
 	.head {
